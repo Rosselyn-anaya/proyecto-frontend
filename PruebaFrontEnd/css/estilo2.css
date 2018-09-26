@@ -1,0 +1,613 @@
+
+.life{
+    /* Style for "lifestyle" */
+  width: 71px;
+height: 11px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-transform: uppercase;
+margin-left: 93%;
+
+}
+.photo{
+    /* Style for "photodiary" */
+width: 71px;
+height: 11px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-transform: uppercase;
+margin-left: 55%;
+}
+.music{
+    /* Style for "music" */
+width: 43px;
+height: 11px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-transform: uppercase;
+margin-left: 55%;
+}
+.travel{
+    /* Style for "travel" */
+width: 52px;
+height: 11px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-transform: uppercase;
+margin-left: 55%;
+}
+#minimo{
+    width: 119px;
+    height: 23px;
+    color: #000000;
+    font-family: Inconsolata;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    /* Text style for "minim, ø" */
+    letter-spacing: 6px;
+    margin: 5%;
+    margin-left: 16%;
+    }
+.image{
+    /* Style for "image" */
+width: 1061px;
+height: 509px;
+margin-left: 50%;
+margin-right: 20%;
+}
+.photo1{
+    /* Style for "photodiary" */
+width: 85px;
+height: 11px;
+color: #b4ad9e;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 300;
+text-transform: uppercase;
+margin-left: 25%;
+}
+.perfect{
+    /* Style for "The perfec" */
+width: 397px;
+height: 30px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 30px;
+font-weight: 400;
+margin-left: 25%;
+}
+
+.p1{
+    /* Style for "Lorem ipsu" */
+width: 893px;
+height: 183px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin-left: 25%;
+}
+
+.p3{
+    /* Style for "Lorem ipsu" */
+width: 893px;
+height: 183px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin-left: 10%;
+}
+.p4{
+    /* Style for "Lorem ipsu" */
+width: 893px;
+height: 183px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin-left: 26%;
+}
+#liv{
+color:#b4ad9e;
+font-size: 90%;
+font-family: Ubuntu;
+margin-left: 25%;
+text-transform: uppercase;
+
+
+}
+.row{
+    margin-left: 23%;
+    margin-right: -22%;
+  
+}
+.p2{
+    /* Style for "Lorem ipsu" */
+width: 414px;
+height: 63px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+
+}
+.pp{
+    /* Style for "More than" */
+width: 407px;
+height: 30px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 30px;
+font-weight: 400;
+}
+.bg{
+width: 1199px;
+height: 287px;
+background-color: #f0f0f0;
+margin: 20px auto;
+margin-left: 15%;
+margin-right: 10%
+
+}
+.sig{
+    /* Style for "Sign up fo" */
+width: 374px;
+height: 30px;
+color: #333333;
+font-family: "Playfair Display";
+font-size: 30px;
+font-weight: 400;
+/* Text style for "Sign up fo" */
+letter-spacing: 0.75px;
+text-align: center;
+margin-left: 35%;
+margin: 20px auto;
+padding: 100px 0 0 0;
+}
+.mail{
+    /* Style for "Enter a va" */
+width: 168px;
+height: 12px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin-left: 36%;
+padding: 60px 0 0 0;
+}
+.line{
+width: 399px;
+height: 1px;
+background-color: #000000;
+margin-left: 35%;
+margin-top: 3px
+
+}
+.icon{
+/* Style for "send icon" */
+width: 40px;
+height: 1px;
+margin-left: 65%;
+padding: 1px 0 0 0;
+margin-top: -33px;
+
+}
+.life1{
+    /* Style for "lifestyle" */
+width: 63px;
+height: 11px;
+color: #b4ad9e;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 300;
+text-transform: uppercase;
+}
+.life2{
+color: #b4ad9e;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 300;
+text-transform: uppercase;
+margin-left: 30px;
+}
+.box{
+    /* Style for "box" */
+width: 164px;
+height: 60px;
+border: 1px solid #626262;
+margin-left: 45%;
+}
+.more{
+    /* Style for "Load more" */
+width: 96px;
+height: 17px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+margin-left: 20%;
+margin-top: 15px
+}
+.vec{
+    /* Style for "background" */
+width: 1200px;
+height: 97px;
+background-color: #f0f0f0;
+margin-left: 12%;
+margin-right: 10%;
+}
+.temrs{
+
+height: 12px;
+columns: #000000;
+font-size: 18px;
+font-family: "Playfair Display";
+margin-left: 12%;
+margin-top: 27px;
+font-weight: 400;
+line-height: 24px;
+
+}
+.fol{
+    /* Style for "Follow" */
+width: 42px;
+height: 12px;
+color: #000000;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin-left: 81%;
+margin-top: -23px
+}
+.fb{
+    /* Style for "facebook" */
+width: 35px;
+height: 35px;
+margin-left: 87%;
+margin-top: -17px
+}
+.fb1{
+    /* Style for "facebook" */
+width: 35px;
+height: 35px;
+margin-left: 82%;
+margin-top: -17px
+}
+.tt{
+    
+    width: 35px;
+    height: 35px;
+    margin-left: 88.5%;
+    margin-top: -35px;
+}
+.tt1{
+    
+     
+    width: 35px;
+    height: 35px;
+    margin-left: 80%;
+    margin-top: -35px;
+}
+.insta{
+    width: 35px;
+    height: 35px;
+    margin-left: 93%;
+margin-top: -35px;
+}
+#text{
+    
+    font-family: "Playfair Display";
+   
+     margin-left: 35%;
+     font-size: 14px;
+     color: black;
+     border: none;
+    width: 240px;
+    margin-top: 40px;
+     background-color: #f0f0f0;
+ }
+ .as{
+   float: 100;
+    margin-left: 0%;
+    margin-right: 10%;
+    padding: 1em;
+    margin-top: 10%;
+ }
+ section{
+    padding: 1em;
+   
+    width: 70%;
+    float: left;
+   
+   
+}
+ #aside-loren-2{
+    width: 20%;
+    padding: 1em;
+    margin-top: 2px;
+  margin-left: 70%;
+  margin-right: 30%;
+    
+ }
+ .foot{
+    width: 1200px;
+    height: 97px;
+    background-color: #f0f0f0;
+    margin-left: 12%;
+    margin-right: 5%;
+     margin-top: 60%;
+ }
+ .foot1{
+    width: 1200px;
+    height: 97px;
+    background-color: #f0f0f0;
+    margin-left: 12%;
+    margin-right: 5%;
+    margin-top: 200%;
+ }
+ .foot2{
+    width: 1200px;
+    height: 97px;
+    background-color: #f0f0f0;
+    margin-left: 12%;
+    margin-right: 5%;
+     margin-top: 10%;
+ }
+ .joi{
+    color: #beb5b5;
+    font-size: 16px;
+    font-family: "Playfair Display";
+    width: 25cm;
+    height: 2cm;
+   
+ }
+ .joi1{
+    color: #beb5b5;
+    font-size: 16px;
+    font-family: "Playfair Display";
+    width: 25cm;
+    height: 2cm;
+    margin-left: 30%;
+   margin-top: -80%;
+}
+ .fotos{
+    width: 1170px;
+   height: 410px;
+  background-color: #F0F0F0;
+   border: red;
+   margin-left: 15%;
+}
+.fot1{
+ margin-left:10%;
+ margin-top: 1%;
+ width: 270px;
+ height: 170px;
+}
+.fot2{
+    margin-left:5%;
+    margin-top: 1%;
+    margin-right: 5%;
+    width: 270px;
+    height: 170px;
+}
+.fot3{
+    margin-left:0%;
+    margin-top: 1%;
+    width: 270px;
+    height: 170px;
+}
+#fot2{
+    margin-left: 4%;
+    margin-top: 1%;
+    
+}
+#fot3{
+    margin-left: 5%;
+    margin-top: 1%;
+
+}
+#fotp3{
+    margin-left: 10%;
+    margin-top: 1%;
+    margin-right: 10%;
+    margin-left: 50px;
+}
+#you{
+    color: #d1c8c8;
+    font-size: 16px;
+    font-family: "Playfair Display";
+    margin-top: 70px;
+    margin-left: 10%;
+    
+   
+   
+}
+#you2{
+    color: #d1c8c8;
+    font-size: 16px;
+    font-family: "Playfair Display";
+    margin-top: 150px;
+    margin-left: 22%;
+}
+#you3{
+    color: #d1c8c8;
+    font-size: 16px;
+    font-family: "Playfair Display";
+    margin-top: 50px;
+    margin-left: 22%;
+}
+#you4{
+    color: #d1c8c8;
+    font-size: 16px;
+    font-family: "Playfair Display";
+    margin-top: 20px;
+    margin-left: 15%;
+}
+#rep{
+    color: #d1c8c8;
+    font-size: 16px;
+    font-family: "Playfair Display";
+    margin-top: 25px;
+    margin-left: 0%;
+}
+.conec{
+    color: #d1c8c8;
+    font-size: 16px;
+    font-family: "Playfair Display";
+    margin-top: 10px;
+    margin-left: 70%;
+}
+.conec1{
+    color: #d1c8c8;
+    font-size: 16px;
+    font-family: "Playfair Display";
+    margin-top: 10px;
+    margin-left: 86%;
+}
+
+.a{
+margin-left: 10%;
+font-size: 19px;
+color: #626262;
+margin-top: 1%;
+}
+.b{
+margin-left: 16%;
+font-size: 19px;
+color: #626262;
+
+}
+.c{
+margin-left: 10%;
+font-size: 19px;
+color: #626262;
+}
+.n{
+    color: #333333;
+}
+.tex{
+    width: 397px;
+height: 30px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 30px;
+font-weight: 400;
+}
+.img2{
+    padding: 50px;
+    margin: 40px;
+    float: right;
+    margin-top: 1%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    border: 10px solid pink;
+    
+}
+.img{
+    float: left;
+  width: 33.33%; 
+  padding: 5px;
+}
+.img3{
+    float: left;
+}
+
+#img{
+    margin-left: 250px;
+}
+#img1{
+    color: #626262;
+    margin-left: 100px;
+    text-align: center;
+    text-align: left;
+    font-family: "Playfair Display";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+#img2{
+    color: #626262;
+    margin-left: 450px;
+    text-align: center;
+    text-align: left;
+    font-family: "Playfair Display";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+#img3{
+    color: #626262;
+    margin-left: 90px;
+    height: 500px;
+    width: 600px;
+}
+.pg{
+    margin-left: 21%;
+}
+#pg1{
+    margin-left: 20%;
+}
+#pg2{
+    margin-left: 18%;
+    margin-top: 15%;
+}
+.sha{
+    margin-right: 30%;
+}
+.fb2{
+    /* Style for "facebook" */
+width: 35px;
+height: 35px;
+margin-left: 105%;
+margin-top: -17px
+}
+.tt2{
+    
+    width: 35px;
+    height: 35px;
+    margin-left: 108%;
+    margin-top: -35px;
+}
+.insta{
+    width: 35px;
+    height: 35px;
+    margin-left: 90.5%;
+   margin-top: -35px;
+}
+.inst{
+    width: 35px;
+    height: 35px;
+    margin-left: 92%;
+    margin-top: -35px;
+}
+.pin{
+    width: 35px;
+    height: 35px;
+    margin-left: 93.5%;
+    margin-top: -35px;
+   
+}
